@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<root>
+    <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+        <xsd:element name="root" msdata:IsDataSet="true">
+            
+        </xsd:element>
+    </xsd:schema>
+    <resheader name="resmimetype">
+        <value>text/microsoft-resx</value>
+    </resheader>
+    <resheader name="version">
+        <value>1.3</value>
+    </resheader>
+    <resheader name="reader">
+        <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    </resheader>
+    <resheader name="writer">
+        <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    </resheader>
+    <data name="Greetings" xml:space="preserve">
+        <value>Ja sam bot USRH. Preko mene Vi možete anonimno uputiti upit, predati informacije ili zatražiti pomoć. 
+
+Jednostavno pošaljite poruku i, ako je potrebno, priložite datoteke. Naš ured će odogovriti Vama u najkraćem mogućem roku.</value>
+    </data>
+    <data name="Sent" xml:space="preserve">
+        <value>✅ Dobili smo Vašu poruku</value>
+    </data>
+    <data name="English" xml:space="preserve">
+        <value>🇬🇧 Engleski</value>
+    </data>
+    <data name="Russian" xml:space="preserve">
+        <value>🇷🇺 Ruski</value>
+    </data>
+    <data name="Croatian" xml:space="preserve">
+        <value>🇭🇷 Hrvatski</value>
+    </data>
+    <data name="YouCannotSendMessage" xml:space="preserve">
+        <value>⛔️ Više niste omogućeni slati nama poruke</value>
+    </data>
+    <data name="RemoveFromBlacklist" xml:space="preserve">
+        <value>Deblokirati</value>
+    </data>
+    <data name="AddToBlacklist" xml:space="preserve">
+        <value>Blokirati korisnika</value>
+    </data>
+    <data name="ListIsEmpty" xml:space="preserve">
+        <value>Popis je prazan</value>
+    </data>
+    <data name="UserBlocked" xml:space="preserve">
+        <value>Korisnik je blokiran</value>
+    </data>
+</root>
